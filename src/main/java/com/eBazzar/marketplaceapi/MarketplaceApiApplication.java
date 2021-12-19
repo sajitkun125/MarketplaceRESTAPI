@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MarketplaceApiApplication {
 
 	public static void main(String[] args) {
-		System.out.print("first statement. by sajit");
 		SpringApplication.run(MarketplaceApiApplication.class, args);
 	}
 
